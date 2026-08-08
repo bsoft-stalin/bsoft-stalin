@@ -19,10 +19,10 @@ YOUR_USERNAME/                      ← repo must be named exactly your username
 
 ## Step 2 — Double-check the username-dependent links
 
-The username `gautammanak1` is already filled in throughout `README.md` (stats card,
+The username `bsoft-stalin` is already filled in throughout `README.md` (stats card,
 top languages, streak stats, activity graph, snake animation, trophies, profile-view
 counter). If your GitHub username is ever different, search-and-replace
-`gautammanak1` with the correct one everywhere it appears.
+`bsoft-stalin` with the correct one everywhere it appears.
 
 The **Organizations** section links to `fetchai`, `kloudidev`, and `MeerutCodeHub` —
 update or remove those if they don't match your actual org memberships.
