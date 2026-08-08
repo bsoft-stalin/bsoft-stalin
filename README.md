@@ -15,7 +15,7 @@
 
 ### 📑 Navigation
 
-[About Me](#-about-me) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Architecture](#%EF%B8%8F-architecture--engineering-interests) • [GitHub Stats](#-real-time-github-stats) • [Contribution Snake](#-contribution-snake-animation) • [Trophies](#-trophies) • [Experience](#-professional-experience) • [AI Tools](#-ai-assisted-development) • [Education](#-education) • [Connect](#-lets-connect)
+[About Me](#-about-me) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Architecture](#%EF%B8%8F-architecture--engineering-interests) • [GitHub Stats](#-real-time-github-stats) • [Contribution Snake](#-contribution-snake-animation) • [Experience](#-professional-experience) • [AI Tools](#-ai-assisted-development) • [Education](#-education) • [Connect](#-lets-connect)
 
 ---
 
@@ -25,7 +25,7 @@
 - 🏢 Engineering core software at **Bosco Soft Technologies Pvt. Ltd.** (Yelagiri Hills, India).
 - 🏫 Domain expertise in **School Information Systems (OptionC.SMS)**, **Family Portal**, **Parish Manager**, **Diocese Portals (Acutis)**, and **SaaS/SSO Integration**.
 - 🏗️ Strong exposure to **Clean Architecture, Repository Pattern, Microservices concepts, EF Core, Dapper, and JWT Authentication**.
-- 🤖 Hands-on practitioner of **AI-Assisted Development** using ChatGPT, Cursor AI, GitHub Copilot, Claude Code, Google Antigravity, and n8n.
+- 🤖 Hands-on practitioner of **AI-Assisted Development** using ChatGPT, Cursor AI, GitHub Copilot, Claude Code, and Google Antigravity.
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at Alagappa University (2025–2027).
 
 ---
@@ -61,14 +61,12 @@
 </p>
 
 <p align="left">
-  <b>Tools, DevOps & Automation</b><br />
+  <b>Tools & DevOps</b><br />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
@@ -106,11 +104,6 @@
 ### 📊 Real-Time GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bsoft-stalin&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=E63946&icon_color=E63946&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsoft-stalin&layout=compact&theme=dark&hide_border=true&title_color=E63946&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=bsoft-stalin&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak Stats" />
 </p>
 
@@ -128,16 +121,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsoft-stalin/bsoft-stalin/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/bsoft-stalin/bsoft-stalin/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</p>
-
-> The contribution snake animation is automatically updated every 12 hours via GitHub Actions workflow [`.github/workflows/snake.yml`](.github/workflows/snake.yml).
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bsoft-stalin&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -170,8 +153,6 @@ Key developer for **OptionC.SMS, Family Portal, Parish Manager & Diocese Portal 
 | **Google Antigravity** | Agentic AI coding workflows and autonomous pairing |
 | **Eraser AI** | Designing system architecture diagrams, API flow diagrams, and database ER diagrams |
 | **Figma** | UI/UX prototyping, design inspection, and translating specs to React & Tailwind/Bootstrap |
-| **n8n** | Agentic workflow automation, API integration, process orchestration, and scheduled job automation |
-| **Power BI** | Building interactive dashboards, business reporting, and data-driven SQL insights |
 
 ---
 
