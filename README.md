@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Building+Enterprise+Web+Applications;ASP.NET+Core+%2B+React+%2B+SQL+Server;Architecting+SaaS+%26+Microservices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%2B+React+%2B+SQL+Server;Enterprise+Software+at+Bosco+Soft;SaaS+%2B+SSO+%2B+Clean+Architecture;AI-Assisted+Software+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,17 +15,17 @@
 
 ### 📑 Navigation
 
-[About Me](#-about-me) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Architecture](#%EF%B8%8F-architecture--engineering-interests) • [GitHub Stats](#-real-time-github-stats) • [Contribution Snake](#-contribution-snake-animation) • [Trophies](#-trophies) • [Experience](#-professional-experience) • [AI Tools](#-ai-assisted-development) • [Connect](#-lets-connect)
+[About Me](#-about-me) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Architecture](#%EF%B8%8F-architecture--engineering-interests) • [GitHub Stats](#-real-time-github-stats) • [Contribution Snake](#-contribution-snake-animation) • [Trophies](#-trophies) • [Experience](#-professional-experience) • [AI Tools](#-ai-assisted-development) • [Education](#-education) • [Connect](#-lets-connect)
 
 ---
 
 ### 👩‍💻 About Me
 
-- 💼 **Full Stack .NET Developer** with **2+ years of experience** in enterprise web application development.
-- 🏢 Currently engineering software solutions at **Bosco Soft Technologies Pvt. Ltd.**
-- 🏫 Domain expertise in **School Information Systems, Parish Management, Diocese Portals, and SaaS/SSO Integration**.
-- 🏗️ Deeply passionate about **Clean Architecture, Microservices Concepts, REST APIs, and Enterprise System Design**.
-- 🤖 Actively leverage **AI-Assisted Engineering** (ChatGPT, Cursor AI, GitHub Copilot, Claude Code) to build robust applications faster.
+- 💼 **Full Stack .NET Developer** with **2 years of experience** specializing in modern enterprise web applications.
+- 🏢 Engineering core software at **Bosco Soft Technologies Pvt. Ltd.** (Yelagiri Hills, India).
+- 🏫 Domain expertise in **School Information Systems (OptionC.SMS)**, **Family Portal**, **Parish Manager**, **Diocese Portals (Acutis)**, and **SaaS/SSO Integration**.
+- 🏗️ Strong exposure to **Clean Architecture, Repository Pattern, Microservices concepts, EF Core, Dapper, and JWT Authentication**.
+- 🤖 Hands-on practitioner of **AI-Assisted Development** using ChatGPT, Cursor AI, GitHub Copilot, Claude Code, Google Antigravity, and n8n.
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at Alagappa University (2025–2027).
 
 ---
@@ -42,30 +42,33 @@
 </p>
 
 <p align="left">
-  <b>Frontend Frameworks & Styling</b><br />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <b>Frontend Frameworks & UI</b><br />
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
 <p align="left">
   <b>Backend & Database</b><br />
-  <img src="https://img.shields.io/badge/-.NET%208%20%2F%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-REST%20APIs-25D366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-.NET%208%20%2F%20.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET%20Core%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dapper-4479A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-EF%20Core-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-REST%20APIs-25D366?style=for-the-badge" />
 </p>
 
 <p align="left">
-  <b>DevOps, Tools & AI Runtimes</b><br />
+  <b>Tools, DevOps & Automation</b><br />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
@@ -76,28 +79,27 @@
 ┌─────────────────────────────────────────────────────────────┐
 │                 React + TypeScript Frontend                 │
 └──────────────────────────────┬──────────────────────────────┘
-                               │ HTTP / REST / JSON
+                               │ HTTP / REST APIs / JWT
                                ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                  API Gateway (YARP / JWT)                   │
+│              SaaS API Gateway & Single Sign-On             │
 └──────────────────────────────┬──────────────────────────────┘
-                               │ Clean Architecture
+                               │ Clean Architecture / IoC
                                ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                 ASP.NET Core Web Services                   │
+│             ASP.NET Core Web API Microservices              │
 └──────────────────────────────┬──────────────────────────────┘
-                               │ Dapper / EF Core
+                               │ Dapper / EF Core / SPs
                                ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                Microsoft SQL Server Engine                  │
+│            SQL Server Enterprise Data Storage               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-- **Clean Architecture & Repository Pattern** for maintainable enterprise applications.
-- **Dependency Injection** & IoC containers.
-- **SaaS / Multi-Tenant System Architecture** with Single Sign-On (SSO).
-- **JWT / OAuth2 Security** & API versioning.
-- **Database Optimization** with indexed SQL queries, Dapper & stored procedures.
+- **Clean Architecture & Repository Pattern** for clean separation of concerns.
+- **SaaS & SSO Integration** for unified authentication across multi-tenant applications.
+- **High-Performance Data Access** using indexed SQL stored procedures, Dapper & Entity Framework Core.
+- **RESTful API Security** via JWT Tokens, OAuth, and Swagger documentation.
 
 ---
 
@@ -142,39 +144,49 @@
 
 ### 💼 Professional Experience
 
-**Software Developer** — Bosco Soft Technologies Pvt. Ltd. — *June 2024 to Present*
+**Software Developer** — Bosco Soft Technologies Pvt. Ltd., Yelagiri Hills, India — *June 2024 to Present*
 
-Contributing to enterprise applications including **OptionC School Information System, Family Portal, Family Alert, Daily Log, Diocese Portal (Acutis), and Parish Manager**:
+Key developer for **OptionC.SMS, Family Portal, Parish Manager & Diocese Portal Suite (Acutis)**:
 
-- Architecting and developing enterprise web features using ASP.NET Core, React, and SQL Server.
-- Designing RESTful APIs and core business logic modules for Family Portal, Daily Log, and alert platforms.
-- Integrating SaaS multi-tenancy and Single Sign-On (SSO) authentication across application suites.
-- Creating high-performance SQL Server stored procedures and query optimizations.
-- Resolving complex production bugs, enforcing coding standards, and boosting overall system stability.
+- **Enterprise App Development:** Building enterprise applications using ASP.NET Core, React, and SQL Server for OptionC School Information System & Diocese Portals.
+- **REST APIs & Business Modules:** Designing and developing REST APIs for Family Portal, Family Alert, and Daily Log modules.
+- **SaaS & SSO Integration:** Implemented Single Sign-On (SSO) and Unified Directory integration for enterprise SaaS modules.
+- **Database Optimization:** Designing schemas, writing stored procedures, and tuning SQL Server query performance.
+- **Security & Support:** Implementing JWT authentication/authorization, resolving production issues, and improving app performance.
 
-**Key Tech:** MSSQL Server, .NET 8 / .NET 10, ASP.NET Core, React, TypeScript, REST APIs, JWT, Swagger, Git.
+**Tech Stack:** MSSQL Server, .NET 8/.NET 10, ASP.NET Core, React, TypeScript, REST APIs, JWT, Swagger, Git.
 
 ---
 
-### 🤖 AI-Assisted Development
+### 🤖 AI-Assisted Development Experience
 
-| Tool | Focus Area & Use Case |
+| Tool | Primary Use Case & Workflow |
 |---|---|
-| **ChatGPT** | Technical architecture planning, documentation, complex SQL optimization |
-| **Cursor AI** | Rapid full-stack feature implementation, inline debugging, refactoring |
-| **GitHub Copilot** | Inline code autocompletion and repetitive boilerplate generation |
-| **Claude Code** | Deep codebase analysis, security review, multi-file refactoring |
-| **Perplexity AI** | Technical research, API comparisons, and dependency evaluations |
-| **Eraser AI** | System architecture diagrams, ER diagrams, and flow charts |
+| **ChatGPT** | Requirement clarification, drafting solution approaches, complex SQL script generation, debugging support |
+| **Cursor AI** | Rapid module development, refactoring legacy code sections, bug fixing, and inline assistance |
+| **GitHub Copilot** | Boilerplate code autocompletion, routine CRUD scaffolding, inline repetitive logic acceleration |
+| **Claude Code** | In-depth codebase analysis, architectural refactoring guidance, generating technical documentation |
+| **Perplexity AI** | Framework evaluation, tech research, ecosystem updates verification |
+| **Google Antigravity** | Agentic AI coding workflows and autonomous pairing |
+| **Eraser AI** | Designing system architecture diagrams, API flow diagrams, and database ER diagrams |
+| **Figma** | UI/UX prototyping, design inspection, and translating specs to React & Tailwind/Bootstrap |
+| **n8n** | Agentic workflow automation, API integration, process orchestration, and scheduled job automation |
+| **Power BI** | Building interactive dashboards, business reporting, and data-driven SQL insights |
 
 ---
 
-### 📚 Currently Exploring
+### 🎓 Education
 
-- .NET 10 Enterprise Features & Advanced Microservice Patterns
-- Cloud-Native Deployment & Containerization (Docker, Kubernetes)
-- Distributed Caching (Redis) & Telemetry (Serilog, OpenTelemetry, Grafana)
-- System Performance Tuning & API Rate Limiting
+- 🎓 **Master of Computer Applications (MCA)** — *Alagappa University* (2025 – 2027, In Progress)
+- 🎓 **Bachelor of Computer Applications (BCA)** — *Don Bosco College* (2021 – 2024)
+
+---
+
+### 🌟 Professional Strengths
+
+- 💡 **Problem Solving:** Strong analytical skills and quick technology learner.
+- 🤝 **Teamwork & Delivery:** Experienced in collaborative agile development and production deployment.
+- ⚡ **Full-Stack Proficiency:** Balanced expertise across C#/.NET backend, React frontend, and SQL Server databases.
 
 ---
 
@@ -187,13 +199,10 @@ Contributing to enterprise applications including **OptionC School Information S
   <a href="mailto:mariastalinraj@dbcyelagiri.edu.in" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/bsoft-stalin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:mariastalinraj@dbcyelagiri.edu.in">mariastalinraj@dbcyelagiri.edu.in</a> | 📍 <b>Location:</b> India
+  📧 <b>Email:</b> <a href="mailto:mariastalinraj@dbcyelagiri.edu.in">mariastalinraj@dbcyelagiri.edu.in</a> | 📱 <b>Mobile:</b> (+91) 9361237493 | 📍 <b>Location:</b> Yelagiri Hills, India
 </p>
 
-<p align="center"><i>Full Stack .NET Developer building scalable enterprise applications with .NET, React, SQL Server, and AI-assisted engineering.</i></p>
+<p align="center"><i>Full Stack .NET Developer building scalable enterprise applications with ASP.NET Core, React, SQL Server, and AI-assisted engineering.</i></p>
