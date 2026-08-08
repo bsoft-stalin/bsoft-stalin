@@ -5,11 +5,22 @@
 Building enterprise applications, modernizing legacy systems, designing APIs, optimizing databases, and turning complex business requirements into maintainable software.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gautammanak1&style=for-the-badge&color=E63946&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 <!--
-  IMPORTANT: replace every occurrence of YOUR_USERNAME below with your actual
-  GitHub username (case-sensitive) before pushing this to
-  github.com/YOUR_USERNAME/YOUR_USERNAME
+  NOTE: the name above is taken from the resume this README was built from.
+  Your GitHub account displays as "Gautam Manak" — if you want the header,
+  bio, and contact details below to say "Gautam Manak" instead, just say so
+  and I'll swap them in one pass.
 -->
+
+---
+
+### 📑 Contents
+
+[About Me](#-about-me) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Architecture](#%EF%B8%8F-architecture--engineering-interests) • [GitHub Stats](#-github-stats) • [Trophies](#-trophies) • [Experience](#-professional-experience) • [AI Tools](#-ai-assisted-development) • [Organizations](#-organizations) • [Connect](#-lets-connect)
 
 ---
 
@@ -84,24 +95,32 @@ Stored Procedures
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gautammanak1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautammanak1&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=gautammanak1&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0D1117&color=E63946&line=E63946&point=C9D1D9&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautammanak1&theme=github-compact&bg_color=0D1117&color=E63946&line=E63946&point=C9D1D9&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/gautammanak1/gautammanak1/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 > The snake animation is generated automatically once a day by the workflow in
 > [`.github/workflows/snake.yml`](.github/workflows/snake.yml) — see setup notes below.
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gautammanak1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
 
 ---
 
@@ -153,9 +172,47 @@ Strong problem-solving • Quick learner • Team player • Enterprise applicat
 
 ---
 
+### 🏢 Organizations
+
+<!--
+  Pulled from your GitHub profile screenshot. If any of these org logos
+  don't render, it's because the org's GitHub avatar URL differs slightly —
+  swap in the exact org handle after the /u/ segment.
+-->
+<p align="center">
+  <a href="https://github.com/fetchai" target="_blank"><img src="https://github.com/fetchai.png" width="60" height="60" style="border-radius:50%" alt="Fetch.ai" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kloudidev" target="_blank"><img src="https://github.com/kloudidev.png" width="60" height="60" style="border-radius:50%" alt="Kloudidev" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MeerutCodeHub" target="_blank"><img src="https://github.com/MeerutCodeHub.png" width="60" height="60" style="border-radius:50%" alt="Meerut Code Hub" /></a>
+</p>
+
+<p align="center">Fetch.ai · Kloudidev Digital Solutions · Meerut Code Hub</p>
+
+---
+
 ### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gautammanak1" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/gautammanak01" target="_blank">
+    <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://gautammanak.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_half_engineer_01" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:mariastalinraj@dbcyelagiri.edu.in" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 - 📧 mariastalinraj@dbcyelagiri.edu.in
 - 📱 (+91) 9361237493
+- 📍 Meerut, India
 
 <p align="center"><i>Full Stack .NET Developer building scalable business applications with .NET, React, SQL Server, and AI-assisted engineering.</i></p>

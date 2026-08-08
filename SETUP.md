@@ -17,15 +17,15 @@ YOUR_USERNAME/                      ← repo must be named exactly your username
    (e.g. if your username is `MariaStalinRaj`, the repo must be `MariaStalinRaj/MariaStalinRaj`).
 2. Check **"Add a README file"** or just push this folder's contents directly.
 
-## Step 2 — Replace the placeholder username
+## Step 2 — Double-check the username-dependent links
 
-Open `README.md` and replace every `YOUR_USERNAME` with your real GitHub username
-(case-sensitive). This affects:
-- the stats card
-- the top languages card
-- the streak stats card
-- the activity graph
-- the snake animation image link
+The username `gautammanak1` is already filled in throughout `README.md` (stats card,
+top languages, streak stats, activity graph, snake animation, trophies, profile-view
+counter). If your GitHub username is ever different, search-and-replace
+`gautammanak1` with the correct one everywhere it appears.
+
+The **Organizations** section links to `fetchai`, `kloudidev`, and `MeerutCodeHub` —
+update or remove those if they don't match your actual org memberships.
 
 ## Step 3 — Push the files
 
